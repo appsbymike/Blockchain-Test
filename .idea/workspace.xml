@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98a84aad-adaa-4a15-b5c3-a763c003d272" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/contracts/Registrar.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/1_registrar_migration.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98a84aad-adaa-4a15-b5c3-a763c003d272" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Registrar.sol" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Registrar.sol" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contracts/Registrar.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="498">
+              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_registrar_migration.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_registrar_migration.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/migrations/1_registrar_migration.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -122,6 +118,17 @@
             <path>
               <item name="Blockchain-Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Blockchain-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain-Test" type="462c0819:PsiDirectoryNode" />
               <item name="contracts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -172,16 +179,23 @@
       <option name="presentableId" value="Default" />
       <updated>1528908061925</updated>
       <workItem from="1528908065433" duration="1369000" />
-      <workItem from="1528909453443" duration="2690000" />
+      <workItem from="1528909453443" duration="3232000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes made">
+      <created>1528912219758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528912219758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4059000" />
+    <option name="totallyTimeSpent" value="4601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3611691" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,6 +221,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes made" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes made" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json">
@@ -244,17 +262,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contracts/Registrar.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/migrations/1_registrar_migration.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/Registrar.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Registrar.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
         </state>
       </provider>
     </entry>
